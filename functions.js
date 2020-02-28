@@ -1,4 +1,4 @@
-/*
+
 const coffeeOrder = (size, type) => {
 
 console.log(`One ${size} ${type} coming right up`);
